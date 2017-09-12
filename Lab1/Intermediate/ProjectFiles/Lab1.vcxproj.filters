@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Lab1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{07D419A1-3135-4580-B8DA-5D482383CD01}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Lab1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Lab1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D252B243-C402-4CAD-93E0-E42F3936C63D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Lab1">
+			<UniqueIdentifier>{E66106BE-98D6-4EE7-9646-86DBC6FF23AF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Lab1\Lab1.Build.cs">
+			<Filter>Source\Lab1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Lab1\Lab1.cpp">
+			<Filter>Source\Lab1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Lab1\Lab1.h">
+			<Filter>Source\Lab1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Lab1\Lab1Character.cpp">
+			<Filter>Source\Lab1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Lab1\Lab1Character.h">
+			<Filter>Source\Lab1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Lab1\Lab1GameMode.cpp">
+			<Filter>Source\Lab1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Lab1\Lab1GameMode.h">
+			<Filter>Source\Lab1</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Lab1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1.cpp.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1Character.cpp.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1GameMode.cpp.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1.init.gen.cpp.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1Character.gen.cpp.obj"
+"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\Lab1\Lab1GameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Lab1\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Tech\Documents\Unreal Projects\Lab1\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Lab1.lib"

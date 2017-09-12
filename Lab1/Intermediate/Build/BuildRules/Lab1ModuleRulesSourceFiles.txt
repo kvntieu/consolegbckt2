@@ -1,0 +1,3 @@
+C:\Users\Tech\Documents\Unreal Projects\Lab1\Source\Lab1\Lab1.Build.cs
+C:\Users\Tech\Documents\Unreal Projects\Lab1\Source\Lab1.Target.cs
+C:\Users\Tech\Documents\Unreal Projects\Lab1\Source\Lab1Editor.Target.cs
